@@ -1,0 +1,33 @@
+{
+  "name": "BOSS",
+  "description": "Moda masculina alemã: ternos, camisas, polos e acessórios.",
+  "customDescription": {
+    "pt-BR": "Moda masculina alemã: ternos, camisas, polos e acessórios.",
+    "en": "Moda masculina alemã: ternos, camisas, polos e acessórios."
+  },
+  "logoPath": "Boss.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "TernoBoss",
+    "TernoBossB",
+    "CamisaSocialBoss",
+    "PoloBoss",
+    "CintoBoss",
+    "TenisCouroBoss"
+  ],
+  "backgroundColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

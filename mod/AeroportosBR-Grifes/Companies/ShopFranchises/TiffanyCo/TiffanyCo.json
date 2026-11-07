@@ -1,0 +1,32 @@
+{
+  "name": "Tiffany & Co.",
+  "description": "Joias de prata e ouro e a caixa azul.",
+  "customDescription": {
+    "pt-BR": "Joias de prata e ouro e a caixa azul.",
+    "en": "Joias de prata e ouro e a caixa azul."
+  },
+  "logoPath": "TiffanyCo.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "PingenteCoracaoTiffany",
+    "PulseiraContasTiffany",
+    "SolitarioTiffany",
+    "CaixaAzulTiffany",
+    "PulseiraOuroTiffany"
+  ],
+  "backgroundColor": {
+    "r": 129,
+    "g": 216,
+    "b": 208,
+    "a": 255
+  },
+  "textColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  }
+}

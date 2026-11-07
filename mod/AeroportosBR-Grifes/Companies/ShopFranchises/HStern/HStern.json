@@ -1,0 +1,33 @@
+{
+  "name": "H.Stern",
+  "description": "Joalheria brasileira.",
+  "customDescription": {
+    "pt-BR": "Joalheria brasileira.",
+    "en": "Joalheria brasileira."
+  },
+  "logoPath": "HStern.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "AnelHStern",
+    "ColarHStern",
+    "BrincosHStern",
+    "PulseiraHStern",
+    "RelogioHStern",
+    "GemasHStern"
+  ],
+  "backgroundColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 180,
+    "b": 110,
+    "a": 255
+  }
+}

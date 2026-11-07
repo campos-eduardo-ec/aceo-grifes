@@ -1,0 +1,32 @@
+{
+  "name": "Bvlgari",
+  "description": "Joalheria romana: relógios, anéis e colares.",
+  "customDescription": {
+    "pt-BR": "Joalheria romana: relógios, anéis e colares.",
+    "en": "Joalheria romana: relógios, anéis e colares."
+  },
+  "logoPath": "Bvlgari.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "RelogioSerpenteBvlgari",
+    "AnelEspiralBvlgari",
+    "ColarLequeBvlgari",
+    "RelogioOctogonalBvlgari",
+    "PerfumeInfinitoBvlgari"
+  ],
+  "backgroundColor": {
+    "r": 100,
+    "g": 20,
+    "b": 40,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 180,
+    "b": 110,
+    "a": 255
+  }
+}

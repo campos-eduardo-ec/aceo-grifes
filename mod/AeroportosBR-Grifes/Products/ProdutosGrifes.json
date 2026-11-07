@@ -1,0 +1,3045 @@
+{
+  "array": [
+    {
+      "productType": "AnelEspiralBvlgari",
+      "quality": 2,
+      "pricePerUnit": 3000,
+      "imagePath": "AnelEspiralBvlgari.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "AnelHStern",
+      "quality": 2,
+      "pricePerUnit": 3800,
+      "imagePath": "AnelHStern.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "AnelTresArosCartier",
+      "quality": 2,
+      "pricePerUnit": 3500,
+      "imagePath": "AnelTresArosCartier.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "AviadorSunglassHut",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "AviadorSunglassHut.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BaseMAC",
+      "quality": 2,
+      "pricePerUnit": 300,
+      "imagePath": "BaseMAC.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BatomMAC",
+      "quality": 2,
+      "pricePerUnit": 180,
+      "imagePath": "BatomMAC.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BatomSaintLaurent",
+      "quality": 2,
+      "pricePerUnit": 300,
+      "imagePath": "BatomSaintLaurent.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BauVuitton",
+      "quality": 2,
+      "pricePerUnit": 8000,
+      "imagePath": "BauVuitton.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaAcolchoadaBottega",
+      "quality": 2,
+      "pricePerUnit": 4000,
+      "imagePath": "BolsaAcolchoadaBottega.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaAlcaCurvaFerragamo",
+      "quality": 2,
+      "pricePerUnit": 3500,
+      "imagePath": "BolsaAlcaCurvaFerragamo.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaBambuGucci",
+      "quality": 2,
+      "pricePerUnit": 5000,
+      "imagePath": "BolsaBambuGucci.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaBurberry",
+      "quality": 2,
+      "pricePerUnit": 3000,
+      "imagePath": "BolsaBurberry.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaChevronSaintLaurent",
+      "quality": 2,
+      "pricePerUnit": 4500,
+      "imagePath": "BolsaChevronSaintLaurent.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaEnvelopeSaintLaurent",
+      "quality": 2,
+      "pricePerUnit": 3800,
+      "imagePath": "BolsaEnvelopeSaintLaurent.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaEstruturadaPrada",
+      "quality": 2,
+      "pricePerUnit": 4500,
+      "imagePath": "BolsaEstruturadaPrada.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaFreioGucci",
+      "quality": 2,
+      "pricePerUnit": 4000,
+      "imagePath": "BolsaFreioGucci.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaMatelasseChanel",
+      "quality": 2,
+      "pricePerUnit": 8000,
+      "imagePath": "BolsaMatelasseChanel.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaMeiaLuaPrada",
+      "quality": 2,
+      "pricePerUnit": 5000,
+      "imagePath": "BolsaMeiaLuaPrada.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaNoBottega",
+      "quality": 2,
+      "pricePerUnit": 4500,
+      "imagePath": "BolsaNoBottega.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaNylonPrada",
+      "quality": 2,
+      "pricePerUnit": 2500,
+      "imagePath": "BolsaNylonPrada.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaQuadradaDior",
+      "quality": 2,
+      "pricePerUnit": 7500,
+      "imagePath": "BolsaQuadradaDior.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaSatchelKors",
+      "quality": 2,
+      "pricePerUnit": 2800,
+      "imagePath": "BolsaSatchelKors.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaSelaDior",
+      "quality": 2,
+      "pricePerUnit": 6000,
+      "imagePath": "BolsaSelaDior.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaTiracoloKors",
+      "quality": 2,
+      "pricePerUnit": 2000,
+      "imagePath": "BolsaTiracoloKors.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaToteBordadaDior",
+      "quality": 2,
+      "pricePerUnit": 4500,
+      "imagePath": "BolsaToteBordadaDior.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaToteKors",
+      "quality": 2,
+      "pricePerUnit": 2500,
+      "imagePath": "BolsaToteKors.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaToteVuitton",
+      "quality": 2,
+      "pricePerUnit": 3500,
+      "imagePath": "BolsaToteVuitton.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaTrapezioHermes",
+      "quality": 2,
+      "pricePerUnit": 8000,
+      "imagePath": "BolsaTrapezioHermes.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaViagemVuitton",
+      "quality": 2,
+      "pricePerUnit": 4500,
+      "imagePath": "BolsaViagemVuitton.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaViagemVuittonB",
+      "quality": 2,
+      "pricePerUnit": 4500,
+      "imagePath": "BolsaViagemVuittonB.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BombonsLuxo",
+      "quality": 0,
+      "pricePerUnit": 150,
+      "imagePath": "BombonsLuxo.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BombonsLuxo",
+      "quality": 2,
+      "pricePerUnit": 300,
+      "imagePath": "BombonsLuxo.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BoneLacoste",
+      "quality": 2,
+      "pricePerUnit": 350,
+      "imagePath": "BoneLacoste.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 35,
+          "b": 80,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 100,
+          "b": 60,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 240,
+          "g": 160,
+          "b": 180,
+          "a": 255
+        },
+        {
+          "r": 120,
+          "g": 180,
+          "b": 220,
+          "a": 255
+        },
+        {
+          "r": 250,
+          "g": 210,
+          "b": 60,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BoneMoncler",
+      "quality": 2,
+      "pricePerUnit": 800,
+      "imagePath": "BoneMoncler.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 20,
+          "b": 20,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 170,
+          "g": 20,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 180,
+          "b": 140,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 120,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 120,
+          "b": 160,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BraceleteEsmaltadoHermes",
+      "quality": 2,
+      "pricePerUnit": 1800,
+      "imagePath": "BraceleteEsmaltadoHermes.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BrincosCristalSwarovski",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "BrincosCristalSwarovski.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BrincosHStern",
+      "quality": 2,
+      "pricePerUnit": 2800,
+      "imagePath": "BrincosHStern.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CachecolXadrezBurberry",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "CachecolXadrezBurberry.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CaixaAzulTiffany",
+      "quality": 2,
+      "pricePerUnit": 2500,
+      "imagePath": "CaixaAzulTiffany.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CaixaFibraMacallan",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "CaixaFibraMacallan.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CaixaLaranjaHermes",
+      "quality": 2,
+      "pricePerUnit": 2000,
+      "imagePath": "CaixaLaranjaHermes.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CaixaPresenteJoMalone",
+      "quality": 2,
+      "pricePerUnit": 600,
+      "imagePath": "CaixaPresenteJoMalone.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CaixaVermelhaCartier",
+      "quality": 2,
+      "pricePerUnit": 3000,
+      "imagePath": "CaixaVermelhaCartier.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CamisaSocialBoss",
+      "quality": 2,
+      "pricePerUnit": 700,
+      "imagePath": "CamisaSocialBoss.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CanetaCristalSwarovski",
+      "quality": 2,
+      "pricePerUnit": 600,
+      "imagePath": "CanetaCristalSwarovski.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CanetaTinteiroMontblanc",
+      "quality": 2,
+      "pricePerUnit": 4000,
+      "imagePath": "CanetaTinteiroMontblanc.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CanetasMontblanc",
+      "quality": 2,
+      "pricePerUnit": 2500,
+      "imagePath": "CanetasMontblanc.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CarteiraBottega",
+      "quality": 2,
+      "pricePerUnit": 1300,
+      "imagePath": "CarteiraBottega.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CarteiraKors",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "CarteiraKors.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CarteiraXadrezBurberry",
+      "quality": 2,
+      "pricePerUnit": 1200,
+      "imagePath": "CarteiraXadrezBurberry.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ChocolateTriangularV2",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "ChocolateTriangularV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ChocolateTriangularV2",
+      "quality": 2,
+      "pricePerUnit": 90,
+      "imagePath": "ChocolateTriangularV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CintoBoss",
+      "quality": 2,
+      "pricePerUnit": 500,
+      "imagePath": "CintoBoss.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CintoBottega",
+      "quality": 2,
+      "pricePerUnit": 1200,
+      "imagePath": "CintoBottega.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CintoFerragamo",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "CintoFerragamo.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColarCristalSwarovski",
+      "quality": 2,
+      "pricePerUnit": 1800,
+      "imagePath": "ColarCristalSwarovski.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColarHStern",
+      "quality": 2,
+      "pricePerUnit": 4500,
+      "imagePath": "ColarHStern.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColarLequeBvlgari",
+      "quality": 2,
+      "pricePerUnit": 4500,
+      "imagePath": "ColarLequeBvlgari.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColarPerolasChanel",
+      "quality": 2,
+      "pricePerUnit": 2500,
+      "imagePath": "ColarPerolasChanel.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColetePlumasMoncler",
+      "quality": 2,
+      "pricePerUnit": 2800,
+      "imagePath": "ColetePlumasMoncler.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 20,
+          "b": 20,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 170,
+          "g": 20,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 180,
+          "b": 140,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 120,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 120,
+          "b": 160,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColoniaIntenseJoMalone",
+      "quality": 2,
+      "pricePerUnit": 750,
+      "imagePath": "ColoniaIntenseJoMalone.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColoniaJoMalone",
+      "quality": 2,
+      "pricePerUnit": 450,
+      "imagePath": "ColoniaJoMalone.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "DecanterRaroMacallan",
+      "quality": 2,
+      "pricePerUnit": 6000,
+      "imagePath": "DecanterRaroMacallan.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "DestiladosPremiumV2",
+      "quality": 0,
+      "pricePerUnit": 250,
+      "imagePath": "DestiladosPremiumV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "DestiladosPremiumV2",
+      "quality": 2,
+      "pricePerUnit": 600,
+      "imagePath": "DestiladosPremiumV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "DifusorJoMalone",
+      "quality": 2,
+      "pricePerUnit": 650,
+      "imagePath": "DifusorJoMalone.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "FigurasCristalSwarovski",
+      "quality": 2,
+      "pricePerUnit": 1600,
+      "imagePath": "FigurasCristalSwarovski.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "FitaSedaHermes",
+      "quality": 2,
+      "pricePerUnit": 800,
+      "imagePath": "FitaSedaHermes.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "GarrafaEscuraMacallan",
+      "quality": 2,
+      "pricePerUnit": 2500,
+      "imagePath": "GarrafaEscuraMacallan.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "GemasHStern",
+      "quality": 2,
+      "pricePerUnit": 2200,
+      "imagePath": "GemasHStern.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "GorroMoncler",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "GorroMoncler.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 20,
+          "b": 20,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 170,
+          "g": 20,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 180,
+          "b": 140,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 120,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 120,
+          "b": 160,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "GorroMonclerB",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "GorroMonclerB.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 20,
+          "b": 20,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 170,
+          "g": 20,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 180,
+          "b": 140,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 120,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 120,
+          "b": 160,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "GorroXadrezBurberry",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "GorroXadrezBurberry.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "JaquetaPlumasMoncler",
+      "quality": 2,
+      "pricePerUnit": 4000,
+      "imagePath": "JaquetaPlumasMoncler.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 20,
+          "b": 20,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 170,
+          "g": 20,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 180,
+          "b": 140,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 120,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 120,
+          "b": 160,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "LencoSedaHermes",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "LencoSedaHermes.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MalaConchaSamsonite",
+      "quality": 2,
+      "pricePerUnit": 2500,
+      "imagePath": "MalaConchaSamsonite.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 50,
+          "b": 110,
+          "a": 255
+        },
+        {
+          "r": 150,
+          "g": 150,
+          "b": 155,
+          "a": 255
+        },
+        {
+          "r": 170,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 190,
+          "b": 60,
+          "a": 255
+        },
+        {
+          "r": 90,
+          "g": 140,
+          "b": 110,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MalaMaciaSamsonite",
+      "quality": 2,
+      "pricePerUnit": 2000,
+      "imagePath": "MalaMaciaSamsonite.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MalaRigidaVuitton",
+      "quality": 2,
+      "pricePerUnit": 6000,
+      "imagePath": "MalaRigidaVuitton.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MalaSobAssentoSamsonite",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "MalaSobAssentoSamsonite.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MalaTexturizadaSamsonite",
+      "quality": 2,
+      "pricePerUnit": 3000,
+      "imagePath": "MalaTexturizadaSamsonite.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MaquiagemDutyFree",
+      "quality": 0,
+      "pricePerUnit": 200,
+      "imagePath": "MaquiagemDutyFree.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MaquiagemDutyFree",
+      "quality": 2,
+      "pricePerUnit": 350,
+      "imagePath": "MaquiagemDutyFree.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MocassimFerragamo",
+      "quality": 2,
+      "pricePerUnit": 1400,
+      "imagePath": "MocassimFerragamo.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MocassimFreioGucci",
+      "quality": 2,
+      "pricePerUnit": 1400,
+      "imagePath": "MocassimFreioGucci.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MochilaExecutivaSamsonite",
+      "quality": 2,
+      "pricePerUnit": 1600,
+      "imagePath": "MochilaExecutivaSamsonite.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosAcetatoSunglassHut",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "OculosAcetatoSunglassHut.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosEsportivosSunglassHut",
+      "quality": 2,
+      "pricePerUnit": 1100,
+      "imagePath": "OculosEsportivosSunglassHut.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosGrife",
+      "quality": 0,
+      "pricePerUnit": 700,
+      "imagePath": "OculosGrife.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosGrife",
+      "quality": 2,
+      "pricePerUnit": 1400,
+      "imagePath": "OculosGrife.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosGucci",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "OculosGucci.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosInteligentesSunglassHut",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "OculosInteligentesSunglassHut.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosMeioAroSunglassHut",
+      "quality": 2,
+      "pricePerUnit": 1000,
+      "imagePath": "OculosMeioAroSunglassHut.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosPrada",
+      "quality": 2,
+      "pricePerUnit": 1100,
+      "imagePath": "OculosPrada.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PaletaMAC",
+      "quality": 2,
+      "pricePerUnit": 380,
+      "imagePath": "PaletaMAC.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PastaBottega",
+      "quality": 2,
+      "pricePerUnit": 5000,
+      "imagePath": "PastaBottega.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumeAnforaDior",
+      "quality": 2,
+      "pricePerUnit": 700,
+      "imagePath": "PerfumeAnforaDior.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumeClassicoChanel",
+      "quality": 2,
+      "pricePerUnit": 850,
+      "imagePath": "PerfumeClassicoChanel.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumeInfinitoBvlgari",
+      "quality": 2,
+      "pricePerUnit": 500,
+      "imagePath": "PerfumeInfinitoBvlgari.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumeLacoFerragamo",
+      "quality": 2,
+      "pricePerUnit": 450,
+      "imagePath": "PerfumeLacoFerragamo.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumeLacoste",
+      "quality": 2,
+      "pricePerUnit": 450,
+      "imagePath": "PerfumeLacoste.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumeMoncler",
+      "quality": 2,
+      "pricePerUnit": 500,
+      "imagePath": "PerfumeMoncler.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumeMontblanc",
+      "quality": 2,
+      "pricePerUnit": 450,
+      "imagePath": "PerfumeMontblanc.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumeSaintLaurent",
+      "quality": 2,
+      "pricePerUnit": 650,
+      "imagePath": "PerfumeSaintLaurent.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumesDutyFreeV2",
+      "quality": 0,
+      "pricePerUnit": 400,
+      "imagePath": "PerfumesDutyFreeV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PerfumesDutyFreeV2",
+      "quality": 2,
+      "pricePerUnit": 700,
+      "imagePath": "PerfumesDutyFreeV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PinceisMAC",
+      "quality": 2,
+      "pricePerUnit": 250,
+      "imagePath": "PinceisMAC.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PingenteCoracaoTiffany",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "PingenteCoracaoTiffany.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PoCompactoMAC",
+      "quality": 2,
+      "pricePerUnit": 260,
+      "imagePath": "PoCompactoMAC.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PochetteSaintLaurent",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "PochetteSaintLaurent.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PoloBoss",
+      "quality": 2,
+      "pricePerUnit": 600,
+      "imagePath": "PoloBoss.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 20,
+          "b": 20,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 35,
+          "b": 70,
+          "a": 255
+        },
+        {
+          "r": 120,
+          "g": 120,
+          "b": 125,
+          "a": 255
+        },
+        {
+          "r": 170,
+          "g": 150,
+          "b": 120,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PoloLacoste",
+      "quality": 2,
+      "pricePerUnit": 600,
+      "imagePath": "PoloLacoste.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 35,
+          "b": 80,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 100,
+          "b": 60,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 240,
+          "g": 160,
+          "b": 180,
+          "a": 255
+        },
+        {
+          "r": 120,
+          "g": 180,
+          "b": 220,
+          "a": 255
+        },
+        {
+          "r": 250,
+          "g": 210,
+          "b": 60,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PoloTuboLacoste",
+      "quality": 2,
+      "pricePerUnit": 650,
+      "imagePath": "PoloTuboLacoste.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PortaCartoesChanel",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "PortaCartoesChanel.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PortaCartoesListraGucci",
+      "quality": 2,
+      "pricePerUnit": 1000,
+      "imagePath": "PortaCartoesListraGucci.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PortaCartoesMontblanc",
+      "quality": 2,
+      "pricePerUnit": 1200,
+      "imagePath": "PortaCartoesMontblanc.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PortaCartoesPrada",
+      "quality": 2,
+      "pricePerUnit": 1000,
+      "imagePath": "PortaCartoesPrada.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PortaCartoesVuitton",
+      "quality": 2,
+      "pricePerUnit": 1100,
+      "imagePath": "PortaCartoesVuitton.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PortaPassaporteDior",
+      "quality": 2,
+      "pricePerUnit": 1200,
+      "imagePath": "PortaPassaporteDior.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PulseiraContasTiffany",
+      "quality": 2,
+      "pricePerUnit": 1800,
+      "imagePath": "PulseiraContasTiffany.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PulseiraCristalSwarovski",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "PulseiraCristalSwarovski.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PulseiraHStern",
+      "quality": 2,
+      "pricePerUnit": 3500,
+      "imagePath": "PulseiraHStern.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PulseiraOuroTiffany",
+      "quality": 2,
+      "pricePerUnit": 6000,
+      "imagePath": "PulseiraOuroTiffany.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PulseiraParafusoCartier",
+      "quality": 2,
+      "pricePerUnit": 7000,
+      "imagePath": "PulseiraParafusoCartier.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PulseiraPregoCartier",
+      "quality": 2,
+      "pricePerUnit": 8000,
+      "imagePath": "PulseiraPregoCartier.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RelogioCeramicaChanel",
+      "quality": 2,
+      "pricePerUnit": 9000,
+      "imagePath": "RelogioCeramicaChanel.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RelogioFemininoKors",
+      "quality": 2,
+      "pricePerUnit": 1500,
+      "imagePath": "RelogioFemininoKors.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RelogioHStern",
+      "quality": 2,
+      "pricePerUnit": 7500,
+      "imagePath": "RelogioHStern.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RelogioOctogonalBvlgari",
+      "quality": 2,
+      "pricePerUnit": 9000,
+      "imagePath": "RelogioOctogonalBvlgari.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RelogioRetangularCartier",
+      "quality": 2,
+      "pricePerUnit": 9000,
+      "imagePath": "RelogioRetangularCartier.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RelogioSerpenteBvlgari",
+      "quality": 2,
+      "pricePerUnit": 8500,
+      "imagePath": "RelogioSerpenteBvlgari.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ScarpinLacoFerragamo",
+      "quality": 2,
+      "pricePerUnit": 1400,
+      "imagePath": "ScarpinLacoFerragamo.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "SolitarioTiffany",
+      "quality": 2,
+      "pricePerUnit": 9000,
+      "imagePath": "SolitarioTiffany.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TenisCouroBoss",
+      "quality": 2,
+      "pricePerUnit": 1200,
+      "imagePath": "TenisCouroBoss.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TenisLacoste",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "TenisLacoste.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TernoBoss",
+      "quality": 2,
+      "pricePerUnit": 3000,
+      "imagePath": "TernoBoss.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TernoBossB",
+      "quality": 2,
+      "pricePerUnit": 3000,
+      "imagePath": "TernoBossB.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TinteiroMontblanc",
+      "quality": 2,
+      "pricePerUnit": 300,
+      "imagePath": "TinteiroMontblanc.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TrenchBurberry",
+      "quality": 2,
+      "pricePerUnit": 3500,
+      "imagePath": "TrenchBurberry.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TubosColoridosMacallan",
+      "quality": 2,
+      "pricePerUnit": 800,
+      "imagePath": "TubosColoridosMacallan.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "Uisque12AnosMacallan",
+      "quality": 2,
+      "pricePerUnit": 600,
+      "imagePath": "Uisque12AnosMacallan.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "VelaJoMalone",
+      "quality": 2,
+      "pricePerUnit": 420,
+      "imagePath": "VelaJoMalone.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "WhiskyCaixas",
+      "quality": 0,
+      "pricePerUnit": 350,
+      "imagePath": "WhiskyCaixas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "WhiskyCaixas",
+      "quality": 2,
+      "pricePerUnit": 900,
+      "imagePath": "WhiskyCaixas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    }
+  ]
+}

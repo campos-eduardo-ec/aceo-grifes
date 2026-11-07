@@ -1,0 +1,32 @@
+{
+  "name": "The Macallan",
+  "description": "Uísque single malt escocês em edições de presente.",
+  "customDescription": {
+    "pt-BR": "Uísque single malt escocês em edições de presente.",
+    "en": "Uísque single malt escocês em edições de presente."
+  },
+  "logoPath": "TheMacallan.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "Uisque12AnosMacallan",
+    "TubosColoridosMacallan",
+    "CaixaFibraMacallan",
+    "GarrafaEscuraMacallan",
+    "DecanterRaroMacallan"
+  ],
+  "backgroundColor": {
+    "r": 140,
+    "g": 80,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 245,
+    "g": 230,
+    "b": 200,
+    "a": 255
+  }
+}

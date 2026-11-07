@@ -1,0 +1,32 @@
+{
+  "name": "Swarovski",
+  "description": "Joias e figuras de cristal.",
+  "customDescription": {
+    "pt-BR": "Joias e figuras de cristal.",
+    "en": "Joias e figuras de cristal."
+  },
+  "logoPath": "Swarovski.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "PulseiraCristalSwarovski",
+    "ColarCristalSwarovski",
+    "BrincosCristalSwarovski",
+    "FigurasCristalSwarovski",
+    "CanetaCristalSwarovski"
+  ],
+  "backgroundColor": {
+    "r": 25,
+    "g": 40,
+    "b": 90,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Jo Malone London",
+  "description": "Colônias, velas e difusores ingleses.",
+  "customDescription": {
+    "pt-BR": "Colônias, velas e difusores ingleses.",
+    "en": "Colônias, velas e difusores ingleses."
+  },
+  "logoPath": "JoMaloneLondon.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "ColoniaJoMalone",
+    "ColoniaIntenseJoMalone",
+    "VelaJoMalone",
+    "DifusorJoMalone",
+    "CaixaPresenteJoMalone"
+  ],
+  "backgroundColor": {
+    "r": 240,
+    "g": 232,
+    "b": 215,
+    "a": 255
+  },
+  "textColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  }
+}

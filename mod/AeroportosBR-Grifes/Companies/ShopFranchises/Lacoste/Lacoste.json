@@ -1,0 +1,32 @@
+{
+  "name": "Lacoste",
+  "description": "Polos de piquê, bonés, tênis e perfume.",
+  "customDescription": {
+    "pt-BR": "Polos de piquê, bonés, tênis e perfume.",
+    "en": "Polos de piquê, bonés, tênis e perfume."
+  },
+  "logoPath": "Lacoste.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "PoloLacoste",
+    "PoloTuboLacoste",
+    "BoneLacoste",
+    "TenisLacoste",
+    "PerfumeLacoste"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 70,
+    "b": 45,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

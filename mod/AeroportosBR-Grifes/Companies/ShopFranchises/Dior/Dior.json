@@ -1,0 +1,32 @@
+{
+  "name": "Dior",
+  "description": "Maison francesa: bolsas estruturadas, couro e perfume.",
+  "customDescription": {
+    "pt-BR": "Maison francesa: bolsas estruturadas, couro e perfume.",
+    "en": "Maison francesa: bolsas estruturadas, couro e perfume."
+  },
+  "logoPath": "Dior.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "BolsaQuadradaDior",
+    "BolsaSelaDior",
+    "BolsaToteBordadaDior",
+    "PortaPassaporteDior",
+    "PerfumeAnforaDior"
+  ],
+  "backgroundColor": {
+    "r": 200,
+    "g": 196,
+    "b": 190,
+    "a": 255
+  },
+  "textColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  }
+}

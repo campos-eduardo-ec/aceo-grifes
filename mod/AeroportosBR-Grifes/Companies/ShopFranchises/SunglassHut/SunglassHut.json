@@ -1,0 +1,32 @@
+{
+  "name": "Sunglass Hut",
+  "description": "Óculos de sol das principais marcas.",
+  "customDescription": {
+    "pt-BR": "Óculos de sol das principais marcas.",
+    "en": "Óculos de sol das principais marcas."
+  },
+  "logoPath": "SunglassHut.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "OculosAcetatoSunglassHut",
+    "AviadorSunglassHut",
+    "OculosMeioAroSunglassHut",
+    "OculosInteligentesSunglassHut",
+    "OculosEsportivosSunglassHut"
+  ],
+  "backgroundColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

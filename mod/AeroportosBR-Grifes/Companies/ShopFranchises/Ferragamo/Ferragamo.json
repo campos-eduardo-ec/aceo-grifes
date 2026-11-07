@@ -1,0 +1,32 @@
+{
+  "name": "Ferragamo",
+  "description": "Sapatos com laço, mocassins, cintos e bolsas.",
+  "customDescription": {
+    "pt-BR": "Sapatos com laço, mocassins, cintos e bolsas.",
+    "en": "Sapatos com laço, mocassins, cintos e bolsas."
+  },
+  "logoPath": "Ferragamo.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "ScarpinLacoFerragamo",
+    "MocassimFerragamo",
+    "CintoFerragamo",
+    "BolsaAlcaCurvaFerragamo",
+    "PerfumeLacoFerragamo"
+  ],
+  "backgroundColor": {
+    "r": 215,
+    "g": 25,
+    "b": 35,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

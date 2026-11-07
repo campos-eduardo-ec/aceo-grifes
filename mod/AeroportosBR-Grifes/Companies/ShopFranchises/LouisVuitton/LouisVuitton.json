@@ -1,0 +1,33 @@
+{
+  "name": "Louis Vuitton",
+  "description": "Malas, baús, bolsas de viagem e couro.",
+  "customDescription": {
+    "pt-BR": "Malas, baús, bolsas de viagem e couro.",
+    "en": "Malas, baús, bolsas de viagem e couro."
+  },
+  "logoPath": "LouisVuitton.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "MalaRigidaVuitton",
+    "BauVuitton",
+    "BolsaViagemVuitton",
+    "BolsaViagemVuittonB",
+    "BolsaToteVuitton",
+    "PortaCartoesVuitton"
+  ],
+  "backgroundColor": {
+    "r": 85,
+    "g": 55,
+    "b": 35,
+    "a": 255
+  },
+  "textColor": {
+    "r": 225,
+    "g": 195,
+    "b": 140,
+    "a": 255
+  }
+}

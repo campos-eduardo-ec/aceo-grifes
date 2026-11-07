@@ -1,0 +1,32 @@
+{
+  "name": "Samsonite",
+  "description": "Malas de cabine e acessórios de viagem.",
+  "customDescription": {
+    "pt-BR": "Malas de cabine e acessórios de viagem.",
+    "en": "Malas de cabine e acessórios de viagem."
+  },
+  "logoPath": "Samsonite.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "MalaConchaSamsonite",
+    "MalaTexturizadaSamsonite",
+    "MalaMaciaSamsonite",
+    "MalaSobAssentoSamsonite",
+    "MochilaExecutivaSamsonite"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 55,
+    "b": 120,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

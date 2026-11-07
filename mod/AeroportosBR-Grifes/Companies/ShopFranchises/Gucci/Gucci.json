@@ -1,0 +1,32 @@
+{
+  "name": "Gucci",
+  "description": "Grife italiana de bolsas, mocassins e acessórios.",
+  "customDescription": {
+    "pt-BR": "Grife italiana de bolsas, mocassins e acessórios.",
+    "en": "Grife italiana de bolsas, mocassins e acessórios."
+  },
+  "logoPath": "Gucci.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "PortaCartoesListraGucci",
+    "BolsaFreioGucci",
+    "BolsaBambuGucci",
+    "MocassimFreioGucci",
+    "OculosGucci"
+  ],
+  "backgroundColor": {
+    "r": 110,
+    "g": 20,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 235,
+    "g": 220,
+    "b": 190,
+    "a": 255
+  }
+}

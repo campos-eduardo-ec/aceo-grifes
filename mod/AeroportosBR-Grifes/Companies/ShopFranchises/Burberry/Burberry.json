@@ -1,0 +1,32 @@
+{
+  "name": "Burberry",
+  "description": "Marca britânica do trench coat e do xadrez camelo.",
+  "customDescription": {
+    "pt-BR": "Marca britânica do trench coat e do xadrez camelo.",
+    "en": "Marca britânica do trench coat e do xadrez camelo."
+  },
+  "logoPath": "Burberry.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "TrenchBurberry",
+    "CachecolXadrezBurberry",
+    "BolsaBurberry",
+    "CarteiraXadrezBurberry",
+    "GorroXadrezBurberry"
+  ],
+  "backgroundColor": {
+    "r": 196,
+    "g": 164,
+    "b": 120,
+    "a": 255
+  },
+  "textColor": {
+    "r": 30,
+    "g": 30,
+    "b": 30,
+    "a": 255
+  }
+}

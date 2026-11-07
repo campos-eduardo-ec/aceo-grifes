@@ -1,0 +1,40 @@
+{
+  "name": "Dufry",
+  "description": "Duty free: perfumes, bebidas e chocolates importados.",
+  "customDescription": {
+    "pt-BR": "Duty free: perfumes, bebidas e chocolates importados.",
+    "en": "Duty free: perfumes, bebidas e chocolates importados."
+  },
+  "logoPath": "Dufry.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "PerfumesDutyFreeV2",
+    "WhiskyCaixas",
+    "DestiladosPremiumV2",
+    "ChocolateTriangularV2",
+    "MaquiagemDutyFree",
+    "OculosGrife",
+    "BombonsLuxo"
+  ],
+  "backgroundColor": {
+    "r": 120,
+    "g": 20,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Shelf",
+      "amount": 10
+    }
+  ]
+}

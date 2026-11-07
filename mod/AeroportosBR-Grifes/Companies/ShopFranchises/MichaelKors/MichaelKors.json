@@ -1,0 +1,32 @@
+{
+  "name": "Michael Kors",
+  "description": "Bolsas, carteiras e relógios femininos.",
+  "customDescription": {
+    "pt-BR": "Bolsas, carteiras e relógios femininos.",
+    "en": "Bolsas, carteiras e relógios femininos."
+  },
+  "logoPath": "MichaelKors.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "BolsaTiracoloKors",
+    "BolsaToteKors",
+    "BolsaSatchelKors",
+    "RelogioFemininoKors",
+    "CarteiraKors"
+  ],
+  "backgroundColor": {
+    "r": 250,
+    "g": 250,
+    "b": 250,
+    "a": 255
+  },
+  "textColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  }
+}

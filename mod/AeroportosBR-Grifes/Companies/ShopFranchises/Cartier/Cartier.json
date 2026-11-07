@@ -1,0 +1,32 @@
+{
+  "name": "Cartier",
+  "description": "Joalheria e relojoaria francesa.",
+  "customDescription": {
+    "pt-BR": "Joalheria e relojoaria francesa.",
+    "en": "Joalheria e relojoaria francesa."
+  },
+  "logoPath": "Cartier.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "PulseiraParafusoCartier",
+    "PulseiraPregoCartier",
+    "RelogioRetangularCartier",
+    "AnelTresArosCartier",
+    "CaixaVermelhaCartier"
+  ],
+  "backgroundColor": {
+    "r": 160,
+    "g": 15,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 180,
+    "b": 110,
+    "a": 255
+  }
+}

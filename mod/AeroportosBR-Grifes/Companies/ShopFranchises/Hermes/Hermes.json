@@ -1,0 +1,32 @@
+{
+  "name": "Hermès",
+  "description": "Seda, couro e esmaltes da maison francesa.",
+  "customDescription": {
+    "pt-BR": "Seda, couro e esmaltes da maison francesa.",
+    "en": "Seda, couro e esmaltes da maison francesa."
+  },
+  "logoPath": "Hermes.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "LencoSedaHermes",
+    "FitaSedaHermes",
+    "BraceleteEsmaltadoHermes",
+    "BolsaTrapezioHermes",
+    "CaixaLaranjaHermes"
+  ],
+  "backgroundColor": {
+    "r": 241,
+    "g": 120,
+    "b": 40,
+    "a": 255
+  },
+  "textColor": {
+    "r": 90,
+    "g": 50,
+    "b": 20,
+    "a": 255
+  }
+}

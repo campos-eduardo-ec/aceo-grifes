@@ -1,0 +1,32 @@
+{
+  "name": "Prada",
+  "description": "Grife de Milão: bolsas de náilon e couro, óculos e acessórios.",
+  "customDescription": {
+    "pt-BR": "Grife de Milão: bolsas de náilon e couro, óculos e acessórios.",
+    "en": "Grife de Milão: bolsas de náilon e couro, óculos e acessórios."
+  },
+  "logoPath": "Prada.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "BolsaNylonPrada",
+    "BolsaEstruturadaPrada",
+    "BolsaMeiaLuaPrada",
+    "PortaCartoesPrada",
+    "OculosPrada"
+  ],
+  "backgroundColor": {
+    "r": 160,
+    "g": 200,
+    "b": 170,
+    "a": 255
+  },
+  "textColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  }
+}

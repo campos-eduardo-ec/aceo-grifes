@@ -1,0 +1,32 @@
+{
+  "name": "MAC",
+  "description": "Maquiagem profissional: batons, sombras e bases.",
+  "customDescription": {
+    "pt-BR": "Maquiagem profissional: batons, sombras e bases.",
+    "en": "Maquiagem profissional: batons, sombras e bases."
+  },
+  "logoPath": "Mac.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "BatomMAC",
+    "PaletaMAC",
+    "BaseMAC",
+    "PinceisMAC",
+    "PoCompactoMAC"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}
